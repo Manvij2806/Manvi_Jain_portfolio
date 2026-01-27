@@ -2,7 +2,9 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**,**Figma for Design** and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **Web Technologies, python**.
 
-🌐 **Website:** [[[Manvi Jain-Portfolio]]](https://manvi-jain-portfolio.netlify.app/)br
+🌐 **Website:** [[[Manvi Jain-Portfolio]]](https://manvi-jain-portfolio.netlify.app/)
+
+
 🌐 **Live Website** 🔗 https://manvi-jain-portfolio.netlify.app/
 
 
@@ -84,5 +86,6 @@ Feel free to fork, use, and build upon it ⭐
 ---
 
 > *“Showcasing my work and passion through technology 💻”*
+
 
 
